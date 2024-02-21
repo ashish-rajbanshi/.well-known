@@ -11,5 +11,17 @@
         "23:25:EC:E9:DF:95:E9:A0:28:4E:1E:AB:3B:7E:EA:9E:D4:76:D6:C4:51:F1:7E:5F:54:B5:03:DC:4E:65:BE:5C"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.metgo",
+      "sha256_cert_fingerprints": [
+        "23:25:EC:E9:DF:95:E9:A0:28:4E:1E:AB:3B:7E:EA:9E:D4:76:D6:C4:51:F1:7E:5F:54:B5:03:DC:4E:65:BE:5C"
+      ]
+    }
   }
 ]
